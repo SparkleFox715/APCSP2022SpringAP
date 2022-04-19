@@ -14,7 +14,7 @@ def word_submitted(bool, word):
     global wordsToPrint
     global wordsToPrintRect
     global font
-    global keywordadw
+    global keyword
     
     if(bool):
         stat = "You Won!"
